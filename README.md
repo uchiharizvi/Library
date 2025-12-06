@@ -7,27 +7,27 @@ This repository contains a curated collection of technical and non-technical boo
 ```
 Library/
 ├── Tech/
-│   ├── Spring Framework/
+│   ├── System Design/
+│   │   ├── Building Microservices - Sam Newman.pdf
+│   │   ├── Designing Data-Intensive Applications - Martin Kleppmann.pdf
+│   │   ├── Release It! Design and Deploy Production-Ready Software.pdf
+│   │   └── System Design Interview An Insider’s Guide - Alex Xu.pdf
+│   │
+│   ├── Spring/
 │   │   ├── Beginning Spring.pdf
-│   │   ├── spring-boot-reference.pdf
-│   │   ├── spring-framework-reference.pdf
-│   │   └── wrox-professional-java-development-with-the-spring-framework.pdf
+│   │   ├── Cloud Native Java - Josh Long.pdf
+│   │   ├── Professional Java Development with the Spring Framework - Wrox.pdf
+│   │   ├── Spring Boot Reference.pdf
+│   │   └── Spring Framework Reference.pdf
 │   │
 │   ├── Design Patterns/
-│   │   └── DesignPatterns GOF.pdf
+│   │   └── Design Patterns - GOF.pdf
 │   │
-│   ├── Clean Code & Best Practices/
-│   │   ├── Clean_Code.pdf
-│   │   └── Release It! Design and Deploy Production-Ready Software.pdf
-│   │
-│   ├── Microservices & Event-Driven/
-│   │   └── 20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf
-│   │
-│   ├── Cloud Native/
-│   │   └── cloud-native-java-designing-resilient-systems-with-spring-boot-spring-cloud-and-cloud-foundry.pdf
+│   ├── General/
+│   │   └── Clean Code - Robert C. Martin.pdf
 │   │
 │   └── Java/
-│       └── w_java42.pdf
+│       └── Java Reference.pdf
 │
 ├── Fiction/
 ├── Non-Fiction/
@@ -37,29 +37,29 @@ Library/
 
 ## 📖 Book Categories
 
-### Tech Books (10 books)
+### Tech Books
 
-#### Spring Framework (4 books)
+#### System Design
+- **System Design Interview An Insider’s Guide** - Alex Xu
+- **Designing Data-Intensive Applications** - Martin Kleppmann
+- **Building Microservices** - Sam Newman
+- **Release It!** - Design and Deploy Production-Ready Software
+
+#### Spring Framework
 - **Beginning Spring** - Introduction to Spring Framework
+- **Cloud Native Java** - Josh Long
 - **Spring Boot Reference** - Official Spring Boot documentation
 - **Spring Framework Reference** - Official Spring Framework documentation
-- **Wrox Professional Java Development with Spring** - Professional guide to Spring
+- **Professional Java Development with the Spring Framework** - Wrox
 
-#### Design Patterns (1 book)
-- **Design Patterns GOF** - Gang of Four design patterns classic
+#### Design Patterns
+- **Design Patterns (GOF)** - Gamma, Helm, Johnson, Vlissides
 
-#### Clean Code & Best Practices (2 books)
-- **Clean Code** - Robert C. Martin's software craftsmanship bible
-- **Release It!** - Design and deploy production-ready software
+#### General Software Engineering
+- **Clean Code** - Robert C. Martin
 
-#### Microservices & Event-Driven (1 book)
-- **Confluent: Designing Event-Driven Systems** - Event-driven architecture patterns
-
-#### Cloud Native (1 book)
-- **Cloud Native Java** - Spring Boot, Spring Cloud, and Cloud Foundry
-
-#### Java (1 book)
-- **Java 42** - Core Java programming
+#### Java
+- **Java Reference** - Core Java programming
 
 ## 🎯 Purpose
 
